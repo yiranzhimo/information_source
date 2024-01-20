@@ -10,3 +10,7 @@ Email-newsletter-RSS: https://github.com/alaskasquirrel/Email-newsletter-RSS
 探索互联网上高质量的内容：https://www.owenyoung.com/sources/
 
 2023 年值得持续阅读的内容平台：https://xlog.justgoidea.com/2023-063
+
+高效、async 的信息流才是好的信息流：我的 RSS setup: https://blog.douchi.space/my-rss-setup/
+
+我的信息源与阅读工具: https://jiashejianyan.com/information-source-and-tools/
