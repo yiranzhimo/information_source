@@ -18,3 +18,5 @@ Email-newsletter-RSS: https://github.com/alaskasquirrel/Email-newsletter-RSS
 2023 我的所有信息源及其生产力模型丨容器、花园和通用生产流范式: https://kidsseeghosts.substack.com/p/2023
 
 优质信息源大集合：https://xiaoxinhao.top/article/goodnews
+
+RSS source: https://rss-source.com/
