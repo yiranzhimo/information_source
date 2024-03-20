@@ -20,3 +20,5 @@ Email-newsletter-RSS: https://github.com/alaskasquirrel/Email-newsletter-RSS
 优质信息源大集合：https://xiaoxinhao.top/article/goodnews
 
 RSS source: https://rss-source.com/
+
+FRE123 技术周刊大全: https://www.fre123.com/
